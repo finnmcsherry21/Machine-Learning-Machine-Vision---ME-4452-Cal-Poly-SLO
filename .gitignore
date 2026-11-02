@@ -1,0 +1,10 @@
+# Large raw dataset
+asl_alphabet_train/
+
+# Python/Jupyter generated files
+__pycache__/
+.ipynb_checkpoints/
+
+# Local virtual environments
+.venv/
+venv/

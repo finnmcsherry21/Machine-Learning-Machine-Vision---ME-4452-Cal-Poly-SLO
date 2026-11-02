@@ -1,0 +1,3 @@
+Model,Best epoch,Best validation accuracy,Validation loss at best epoch,Final training accuracy,Total epochs completed,Total training minutes
+Baseline CNN,15,0.991264367816092,0.0482483564012265,0.940962643678161,15,461.806923746664
+MobileNetV3-Small,9,0.9760919540229885,0.08550864226013824,0.9847701149425288,9,61.923683564999855

@@ -1,0 +1,2 @@
+Model,Best epoch,Best validation accuracy,Validation loss at best epoch,Final training accuracy,Total epochs completed,Total training minutes
+Baseline CNN,15,0.991264367816092,0.04824835640122655,0.940962643678161,15,461.806923746664

@@ -1,0 +1,2 @@
+Model,Best epoch,Best validation accuracy,Validation loss at best epoch,Final training accuracy,Total epochs completed,Total training minutes
+MobileNetV3-Small,9,0.9760919540229885,0.08550864226013824,0.9847701149425288,9,61.923683564999855
