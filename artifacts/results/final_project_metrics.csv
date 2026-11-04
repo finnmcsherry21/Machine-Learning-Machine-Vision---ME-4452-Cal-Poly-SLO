@@ -1,0 +1,4 @@
+Evaluation dataset,Model used,Number of images,Accuracy,Macro F1 score
+Kaggle validation set,Baseline CNN,17400,0.991264367816092,
+Kaggle 29-image sanity test,Baseline CNN,29,1.0,
+Held-out personal webcam test,Baseline CNN,145,0.0758620689655172,0.0305567995223167

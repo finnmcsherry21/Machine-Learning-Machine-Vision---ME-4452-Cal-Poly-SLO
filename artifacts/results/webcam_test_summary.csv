@@ -1,0 +1,2 @@
+Selected model,Total webcam test images,Correct predictions,Incorrect predictions,Webcam test accuracy,Webcam macro F1 score,Mean prediction confidence
+Baseline CNN,145,11,134,0.07586206896551724,0.030556799522316762,0.7339481242771806

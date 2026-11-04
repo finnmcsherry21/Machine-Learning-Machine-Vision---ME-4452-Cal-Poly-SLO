@@ -1,0 +1,2 @@
+Selected model,Validation accuracy used for selection,Kaggle sanity-test accuracy,Checkpoint path
+Baseline CNN,0.991264367816092,1.0,c:\Users\Finnm\OneDrive - Cal Poly\Senior Year\ME 4452 - Machine Learning\Lab\Main Project\artifacts\checkpoints\baseline_cnn_run_01\best_model.pt

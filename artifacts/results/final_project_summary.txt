@@ -1,0 +1,22 @@
+ASL Sign-Language Recognition Project: Final Results Summary
+============================================================
+Generated: 2026-11-04 14:55:29
+
+Selected final model: Baseline CNN
+Validation accuracy used for selection: 99.13%
+Kaggle 29-image sanity-test accuracy: 100.00%
+Held-out personal webcam-test accuracy: 7.59%
+Held-out personal webcam macro F1 score: 0.031
+
+System configuration
+------------------------------------------------------------
+Device used: cpu
+Image size: 160 x 160
+Batch size: 32
+Random seed: 4452
+Validation fraction: 20%
+Checkpoint interval: 10 minutes
+
+Important project limitation
+------------------------------------------------------------
+The model classifies static images of J and Z because the provided dataset contains still-image labels; it does not interpret their full motion-based ASL forms.

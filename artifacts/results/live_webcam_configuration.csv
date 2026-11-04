@@ -1,0 +1,2 @@
+Selected model,Camera index,Mirrored camera image,ROI fraction,Minimum confidence,Sign hold seconds,Nothing reset seconds,Inference every N frames,Text output file
+Baseline CNN,0,False,0.65,0.8,0.5,0.3,1,c:\Users\Finnm\OneDrive - Cal Poly\Senior Year\ME 4452 - Machine Learning\Lab\Main Project\artifacts\results\recognized_asl_text.txt

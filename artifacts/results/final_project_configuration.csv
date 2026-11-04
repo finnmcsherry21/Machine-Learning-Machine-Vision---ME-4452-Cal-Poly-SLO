@@ -1,0 +1,2 @@
+Random seed,Selected device,Input image size,Batch size,Training-validation split,Classes,Selected final model,Selected model checkpoint,Webcam images per class target,Checkpoint interval minutes
+4452,cpu,160 x 160,32,0.2,29,Baseline CNN,c:\Users\Finnm\OneDrive - Cal Poly\Senior Year\ME 4452 - Machine Learning\Lab\Main Project\artifacts\checkpoints\baseline_cnn_run_01\best_model.pt,5,10.0
